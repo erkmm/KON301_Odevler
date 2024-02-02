@@ -1,2 +1,2 @@
-# KON301_Odevler
+# Power Electronics Projects
 Homeworks i did in introduction to system modeling lecture
